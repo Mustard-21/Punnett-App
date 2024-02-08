@@ -1,0 +1,1 @@
+Using marimo to build an interactive app where a user can select a cross from the dropdown list and it returns the punnett square for that cross, as well as the most probable outcome of the offspring.
